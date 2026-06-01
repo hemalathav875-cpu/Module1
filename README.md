@@ -1,4 +1,4 @@
-~~~
+
 MODULE 1
 
 Conditional Statements in Python: Even or Odd Checker
@@ -37,7 +37,9 @@ Result
 Thus program has been executed successfully.
 
 Ex 1:Datatypes-Boolean Expression Evaluation in Python
+
 ##Aim
+
 To write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving True and False.
 
 ##Algorithm
@@ -71,10 +73,13 @@ Thus program has been executed successfully.
 
 
 Datatypes-Character Literal in Python
+
 ##Aim
+
 To write a Python program that prints the characters 'T' and 'a' using character literals.
 
 ##Algorithm
+
 Print the character 'T'.
 Print the character 'a'.
 
@@ -94,10 +99,14 @@ Thus program has been executed successfully.
 
 
 Datatypes-Complex Number Creation in Python
+
 ##Aim
+
 To write a Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts.
 
 ##Algorithm
+
+
 Read an integer input from the user and assign it to the variable a (real part).
 Read another integer input from the user and assign it to the variable b (imaginary part).
 Create a complex number x using the complex(a, b) function.
@@ -127,9 +136,12 @@ Thus program has been executed successfully.
 
 Datatypes-Read and Print a String in Python
 ##Aim
+
 To write a Python program to read a string from the user and then print it.
 
 ##Algorithm
+
+
 Assign a variable named men_stepped_on_the_moon.
 Use input() to read a string from the user and store it in the variable.
 Print the value stored in the variable.
@@ -147,4 +159,4 @@ Output
 Result
  
  Thus program has been executed successfully.
- ~~~~
+
